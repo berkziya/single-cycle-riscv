@@ -1,1 +1,7 @@
 .DS_Store
+
+results.xml
+sim_build/
+__pycache__/
+
+tests/instructions.hex
